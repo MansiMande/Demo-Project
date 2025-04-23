@@ -4,7 +4,7 @@ public class HelloWorld {
         System.out.println("This commit for feature into master");
         System.out.println("This Demo is for git rebase");
         System.out.println("Jenkins has been build successfully");
-
+        System.out.println("Jenkins has been build and triggered on pipeline successfully");
     }
 }
 
